@@ -1,0 +1,1 @@
+PG_DSN = 'postgresql://rahmidin:12345@127.0.0.1:5432/postgres3'

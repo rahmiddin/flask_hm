@@ -1,4 +1,4 @@
-version: '3.9'
+version: '3.10'
 
 services:
 
@@ -8,5 +8,5 @@ services:
       - "5431:5432"
     environment:
       POSTGRES_USER: rahmidin
-      POSTGRES_PASSWORD: wwefan123
-      POSTGRES_DB: postgres
+      POSTGRES_PASSWORD: 12345
+      POSTGRES_DB: postgres3
